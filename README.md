@@ -19,9 +19,7 @@ Welcome to my **portfolio website**! I'm a **Gen AI Developer at TCS** with expe
 
 ---
 
-## 📸 Preview
 
-![Portfolio Preview](./src/assets/images/hero.jpg)
 
 ---
 
